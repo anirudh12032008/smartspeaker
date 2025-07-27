@@ -27,6 +27,8 @@ This is not just to play music it’s to show off my skills and say:
 <img width="1366" height="418" alt="smart speaker v2 3" src="https://github.com/user-attachments/assets/45d985ad-3f81-4ec6-9b67-4d3c33175987" />
 <img width="1366" height="418" alt="smart speaker v2 4" src="https://github.com/user-attachments/assets/9a75901a-fd71-45da-b5a6-7c371bd201f5" />
 <img width="1366" height="418" alt="smart speaker v2 5" src="https://github.com/user-attachments/assets/f4ddde04-a630-48c2-b272-a46086c18a52" />
+<img width="781" height="1371" alt="smartspeaker drawio" src="https://github.com/user-attachments/assets/06515792-c39e-48cb-908d-d58765cc56f6" />
+
 
 ## BOM
 # Smart Speaker - Bill of Materials (BoM)
