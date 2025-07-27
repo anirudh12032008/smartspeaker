@@ -1,5 +1,5 @@
 # Smart Speaker !!
-I made my own custom speaker built on a vero board circuit, and what makes it even cooler is that it has an ESP32, not just some normal IC to like bt speakers! It plays actual MP3 songs using a DFPlayer Mini and sd card and online too!!, has 2 speaker, a 3.2-inch touch display so you can really interact with it and choice the music you want or change the volume or anything you want, and some cool ws2812 ring like party lights!!!!
+I made my own custom speaker based on a esp32 and has a verbo board for circuits, and what makes it even cooler is that it has an ESP32, not just some normal IC to like bt speakers! It plays actual MP3 songs using a DFPlayer Mini and sd card and online too!!, has 2 speaker, a 3.2-inch touch display so you can really interact with it and choice the music you want or change the volume or anything you want, and some cool ws2812 ring like party lights!!!!
 
 and its not just a speaker its a SMART Speaker!!
 
