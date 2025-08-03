@@ -30,19 +30,21 @@ This is not just to play music it’s to show off my skills and say:
 <img width="781" height="1371" alt="smartspeaker drawio" src="https://github.com/user-attachments/assets/06515792-c39e-48cb-908d-d58765cc56f6" />
 
 ## Connections 
-GPIO 2   - DC/RS (Display)
-GPIO 4   - RESET (Display)
-GPIO 5   - T_CS (Touch Controller)
-GPIO 13  - CS (SD Card Module)
-GPIO 15  - CS (Display)
-GPIO 18  - SCK (SPI Clock Display, SD, Touch)
-GPIO 19  - MISO (SPI MISO SD, Touch)
-GPIO 23  - MOSI (SPI MOSI Display, SD, Touch)
-GPIO 25  - L IN (DAC1)
-GPIO 26  - R IN (DAC2)
-GPIO 27  - btn3
-GPIO 32  - btn1
-GPIO 33  - btn3
+| GPIO Pin | Function                                  |
+|----------|-------------------------------------------|
+| GPIO 2   | DC/RS (Display)                          |
+| GPIO 4   | RESET (Display)                          |
+| GPIO 5   | T_CS (Touch Controller)                  |
+| GPIO 13  | CS (SD Card Module)                      |
+| GPIO 15  | CS (Display)                             |
+| GPIO 18  | SCK (SPI Clock: Display, SD, Touch)      |
+| GPIO 19  | MISO (SPI MISO: SD, Touch)               |
+| GPIO 23  | MOSI (SPI MOSI: Display, SD, Touch)      |
+| GPIO 25  | L IN (DAC1)                              |
+| GPIO 26  | R IN (DAC2)                              |
+| GPIO 27  | btn3                                     |
+| GPIO 32  | btn1                                     |
+| GPIO 33  | btn2                                     |
 
 ## BOM
 # Smart Speaker - Bill of Materials (BoM)
