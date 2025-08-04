@@ -30,6 +30,10 @@ This is not just to play music it’s to show off my skills and say:
 <img width="781" height="1371" alt="smartspeaker drawio" src="https://github.com/user-attachments/assets/06515792-c39e-48cb-908d-d58765cc56f6" />
 
 ## Connections 
+
+<img width="1240" height="1748" alt="Untitled design_20250804_191719_0000" src="https://github.com/user-attachments/assets/917e92dc-f6d0-47a8-a24a-6afa47233201" />
+
+
 | GPIO Pin | Function                                  |
 |----------|-------------------------------------------|
 | GPIO 2   | DC/RS (Display)                          |
