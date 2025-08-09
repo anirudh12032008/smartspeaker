@@ -21,7 +21,13 @@ This is not just to play music it’s to show off my skills and say:
 
  You can show lyrics or info on the screen too
 
-## Images 
+## images (with mount)
+<img width="738" height="467" alt="7" src="https://github.com/user-attachments/assets/63a06c31-feed-4c93-97a1-1ab24cee9e49" />
+<img width="813" height="465" alt="6" src="https://github.com/user-attachments/assets/9e81dcd2-bb87-4052-abff-5bd1eb5bd1b1" />
+<img width="665" height="487" alt="5" src="https://github.com/user-attachments/assets/a531309b-c492-4e9a-94d4-ec02fa1f16ce" />
+
+
+## Images (without mount)
 <img width="1366" height="418" alt="smart speaker (v1~recovered)" src="https://github.com/user-attachments/assets/32c2bf0f-3062-4629-a9c3-890d73ee79eb" />
 <img width="1366" height="418" alt="smart speaker v2" src="https://github.com/user-attachments/assets/91a1aed5-89dd-4b86-94ae-1cc67303d32c" />
 <img width="1366" height="418" alt="smart speaker v2 3" src="https://github.com/user-attachments/assets/45d985ad-3f81-4ec6-9b67-4d3c33175987" />
